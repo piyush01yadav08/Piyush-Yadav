@@ -70,7 +70,7 @@ Hello, this is my profile.
 🌐 CONNECT TERMINAL
 
 Email: 2432354.piyush@gmail.com
-LinkedIn: Coming Soon...
+LinkedIn: www.linkedin.com/in/piyush-yadav-48ba81324
 GitHub: https://github.com/piyush01yadav08
 
 ---

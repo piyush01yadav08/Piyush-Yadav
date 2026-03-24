@@ -77,7 +77,8 @@ GitHub: https://github.com/piyush01yadav08
 
 🧠 CORE ALGORITHM
 
-while(success != true) {
+while(success != true) 
+{
     learn();
     execute();
     improve();

@@ -45,14 +45,14 @@ Hello, this is my profile.
 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush01yadav08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush01yadav08&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
 </p>---
 
 🔥 STREAK TRACKER
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=000000"/>
+  <img src="https://streak-stats.demolab.com/?user=piyush01yadav08&theme=tokyonight&hide_border=true&background=000000"/>
 </p>---
 
 🐍 CONTRIBUTION SNAKE

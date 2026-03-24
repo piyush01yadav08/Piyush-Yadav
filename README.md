@@ -1,11 +1,11 @@
-# Piyush-Yadav
+
 Hello, this is my profile.
 <!-- 🔥 FUTURISTIC BANNER --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Piyush%20Yadav&fontSize=50&color=0:00ff00,100:000000&stroke=00ff00&animation=fadeIn"/>
 </p><!-- 🔥 TYPING ANIMATION --><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+DIGITAL+WORLD;WEB+DEVELOPER+%7C+AI+ENGINEER;BUILDING+JARVIS+⚡;CODE.+CREATE.+DOMINATE." />
 </p><!-- 🔥 VISITOR COUNTER --><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=piyush01yadav08&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge"/>
 </p>---
 
 👾 TERMINAL PROFILE
@@ -58,20 +58,20 @@ Hello, this is my profile.
 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/piyush01yadav08/piyush01yadav08/blob/output/github-contribution-grid-snake.svg" />
 </p>---
 
 🧩 TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=piyush01yadav08&theme=matrix&no-frame=true&no-bg=true"/>
 </p>---
 
 🌐 CONNECT TERMINAL
 
 Email: 2432354.piyush@gmail.com
 LinkedIn: Coming Soon...
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/piyush01yadav08
 
 ---
 
